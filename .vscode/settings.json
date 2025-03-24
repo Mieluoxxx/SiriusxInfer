@@ -1,0 +1,8 @@
+{
+    "testMate.cpp.test.advancedExecutables": [
+        {
+            "pattern": "${command:cmake.buildDirectory}/**/*{test,Test,TEST}*"
+        }
+    ],
+    "cmake.generator": "Ninja"
+}
